@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "IITD login",
+  "name": "InstiPass",
   "version": "1.0",
   "description": "Easy login to IITD moodle",
   "content_scripts": [
